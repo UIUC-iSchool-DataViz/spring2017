@@ -92,8 +92,6 @@ iSchool writing coaches also offer free consultations.
 
 # Academic Integrity
 
-> *Provide information regarding academic integrity. The following is an example.*
-
 Please review and reflect on the academic integrity policy of the University of Illinois,
 <http://admin.illinois.edu/policy/code/article1_part4_1-401.html> to which we subscribe.
 By turning in materials for review, you certify that all work presented is your own and
