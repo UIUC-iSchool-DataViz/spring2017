@@ -6,7 +6,7 @@
 
 * Instructor: Matthew Turk
 * Email: mjturk@illinois.edu
-* Office: Room 46, LIS Building
+* Office: Room 222, LIS Building
 * Office Hour: Wednesday 2-4PM
 * Preferred Contact Method: email
 
