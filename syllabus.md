@@ -221,10 +221,10 @@ that are of particular interest will be emphasized.
  * Week 1 (Jan 20): Introduction, syllabus, and examples of visualization.
    Installation of packages and introduction to python and matplotlib.
    (Coding assignment) 
- * Week 2 (Jan 27): History of visualization, including examples.  (Prose
+ * Week 2 (Jan 27): Simple plotting: quantitative plots, breakdown of plot
+   components.  (Prose assignment)
+ * Week 2 (Feb 3): History of visualization, including examples.  (Coding
    assignment)
- * Week 3 (Feb 3): Simple plotting: quantitative plots, breakdown of plot
-   components.  (Coding assignment)
  * Week 4 (Feb 10): Histograms, binning, and distributions.  (Coding
    assignment)
  * Week 5 (Feb 17): Images: color theory, colormaps, generating visualizations
