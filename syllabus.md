@@ -223,7 +223,7 @@ that are of particular interest will be emphasized.
    (Coding assignment) 
  * Week 2 (Jan 27): Simple plotting: quantitative plots, breakdown of plot
    components.  (Prose assignment)
- * Week 2 (Feb 3): History of visualization, including examples.  (Coding
+ * Week 3 (Feb 3): History of visualization, including examples.  (Coding
    assignment)
  * Week 4 (Feb 10): Histograms, binning, and distributions.  (Coding
    assignment)
