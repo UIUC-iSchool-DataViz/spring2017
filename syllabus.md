@@ -13,6 +13,9 @@
 * Instructional Assistant: Jarai Carter
 * Email: carter31@illinois.edu
 
+* Jupyterhub Instance: https://lis590.ncsa.illinois.edu/
+* Slack Team: https://lis590dv-spr2017.slack.com/
+
 # Course Description
 
 Data visualization is crucial to conveying information drawn from models,
@@ -180,8 +183,6 @@ assignment (or in the case of emergencies, as soon as practicable).
 
 **Grading Scale:**
 
-The following is a sample grading scale.
-
 | 94-100 = A
 | 90-93 = A-
 | 87-89 = B+
@@ -223,8 +224,8 @@ that are of particular interest will be emphasized.
    (Coding assignment) 
  * Week 2 (Jan 27): Simple plotting: quantitative plots, breakdown of plot
    components.  (Prose assignment)
- * Week 3 (Feb 3): History of visualization, including examples.  (Coding
-   assignment)
+ * Week 2 (Feb 3): Binning, filtering, smoothing, and multiplots. (No
+   assignment).
  * Week 4 (Feb 10): Histograms, binning, and distributions.  (Coding
    assignment)
  * Week 5 (Feb 17): Images: color theory, colormaps, generating visualizations
